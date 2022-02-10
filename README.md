@@ -1,7 +1,7 @@
-#QR Code Generator
+##QR Code Generator
 
 This is a simple QR Code generator code
 
 
 
-For it you will need "qrcode"
+For it you will need module "qrcode"
